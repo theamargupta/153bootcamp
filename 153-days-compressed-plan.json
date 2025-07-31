@@ -1,0 +1,1048 @@
+{
+  "title": "Frontend Development Bootcamp 2025",
+  "description": "Intensive 5-month journey to master frontend development from August to December 2025",
+  "start_date": "2025-08-01",
+  "end_date": "2025-12-31",
+  "total_days": 153,
+  "intensity": "High - 2-3 hours daily commitment",
+  "overview": {
+    "months": [
+      {
+        "month": 1,
+        "calendar_month": "August 2025",
+        "focus": "HTML + CSS Fundamentals & Responsive Design",
+        "days_range": "1-31",
+        "key_milestone": "Build responsive portfolio website"
+      },
+      {
+        "month": 2,
+        "calendar_month": "September 2025", 
+        "focus": "JavaScript Fundamentals + DOM + Git",
+        "days_range": "32-61",
+        "key_milestone": "Interactive JS projects + GitHub portfolio"
+      },
+      {
+        "month": 3,
+        "calendar_month": "October 2025",
+        "focus": "Advanced JavaScript + React Basics + State Management",
+        "days_range": "62-92",
+        "key_milestone": "Full React applications with routing"
+      },
+      {
+        "month": 4,
+        "calendar_month": "November 2025",
+        "focus": "Advanced React + APIs + Testing + Deployment",
+        "days_range": "93-122",
+        "key_milestone": "Production-ready full-stack frontend apps"
+      },
+      {
+        "month": 5,
+        "calendar_month": "December 2025",
+        "focus": "Capstone Projects + Job Preparation + Portfolio",
+        "days_range": "123-153",
+        "key_milestone": "Job-ready developer profile & live projects"
+      }
+    ]
+  },
+  "detailed_plan": {
+    "month_1": {
+      "title": "HTML + CSS Fundamentals & Responsive Design",
+      "calendar_month": "August 2025",
+      "days_range": "1-31", 
+      "daily_topics": [
+        {
+          "day": 1,
+          "date": "2025-08-01",
+          "topic": "Web Development Overview + HTML Basics + Setup",
+          "combined_topics": ["What is Frontend Development", "HTML Structure", "VS Code Setup"]
+        },
+        {
+          "day": 2,
+          "date": "2025-08-02", 
+          "topic": "HTML Elements + Semantic HTML + Forms",
+          "combined_topics": ["Text elements", "Semantic tags", "Form basics"]
+        },
+        {
+          "day": 3,
+          "date": "2025-08-03",
+          "topic": "HTML Tables + Media + Accessibility",
+          "combined_topics": ["Tables", "Images/Video", "ARIA basics"]
+        },
+        {
+          "day": 4,
+          "date": "2025-08-04",
+          "topic": "CSS Basics + Selectors + Colors + Typography",
+          "combined_topics": ["CSS syntax", "Selectors", "Colors", "Fonts"]
+        },
+        {
+          "day": 5,
+          "date": "2025-08-05",
+          "topic": "CSS Box Model + Positioning + Layout Basics",
+          "combined_topics": ["Box model", "Position", "Display"]
+        },
+        {
+          "day": 6,
+          "date": "2025-08-06",
+          "topic": "CSS Flexbox Complete Guide",
+          "combined_topics": ["Flex properties", "Flex layouts", "Responsive flex"]
+        },
+        {
+          "day": 7,
+          "date": "2025-08-07",
+          "topic": "CSS Grid Complete Guide",  
+          "combined_topics": ["Grid template", "Grid areas", "Responsive grid"]
+        },
+        {
+          "day": 8,
+          "date": "2025-08-08",
+          "topic": "Responsive Design + Media Queries + Mobile-First",
+          "combined_topics": ["Breakpoints", "Media queries", "Mobile-first approach"]
+        },
+        {
+          "day": 9,
+          "date": "2025-08-09",
+          "topic": "CSS Animations + Transitions + Advanced Styling",
+          "combined_topics": ["Transitions", "Keyframes", "Hover effects"]
+        },
+        {
+          "day": 10,
+          "date": "2025-08-10",
+          "topic": "PROJECT: Responsive Landing Page",
+          "combined_topics": ["Design implementation", "Responsive layout", "CSS best practices"]
+        },
+        {
+          "day": 11,
+          "date": "2025-08-11",
+          "topic": "CSS Frameworks Introduction + Tailwind CSS",
+          "combined_topics": ["Bootstrap overview", "Tailwind setup", "Utility classes"]
+        },
+        {
+          "day": 12,
+          "date": "2025-08-12",
+          "topic": "Advanced CSS + Pseudo-classes + CSS Variables",
+          "combined_topics": ["Pseudo-classes", "CSS custom properties", "Advanced selectors"]
+        },
+        {
+          "day": 13,
+          "date": "2025-08-13",
+          "topic": "CSS Architecture + BEM + Component Design",
+          "combined_topics": ["CSS organization", "BEM methodology", "Component thinking"]
+        },
+        {
+          "day": 14,
+          "date": "2025-08-14",
+          "topic": "PROJECT: CSS Component Library",
+          "combined_topics": ["Reusable components", "Design system", "Documentation"]
+        },
+        {
+          "day": 15,
+          "date": "2025-08-15",
+          "topic": "CSS-only Interactive Components",
+          "combined_topics": ["CSS-only tabs", "Accordions", "Modals"]
+        },
+        {
+          "day": 16,
+          "date": "2025-08-16",
+          "topic": "Form Styling + UI/UX Principles",
+          "combined_topics": ["Form design", "UX principles", "Accessibility"]
+        },
+        {
+          "day": 17,
+          "date": "2025-08-17",
+          "topic": "CSS Performance + Optimization",
+          "combined_topics": ["CSS optimization", "Performance", "Loading strategies"]
+        },
+        {
+          "day": 18,
+          "date": "2025-08-18",
+          "topic": "PROJECT: Multi-page Responsive Website",
+          "combined_topics": ["Site structure", "Navigation", "Consistent design"]
+        },
+        {
+          "day": 19,
+          "date": "2025-08-19",
+          "topic": "CSS Grid Advanced + Complex Layouts",
+          "combined_topics": ["Advanced grid", "Complex layouts", "Grid areas"]
+        },
+        {
+          "day": 20,
+          "date": "2025-08-20",
+          "topic": "Responsive Images + SVG + Icons",
+          "combined_topics": ["Responsive images", "SVG basics", "Icon systems"]
+        },
+        {
+          "day": 21,
+          "date": "2025-08-21",
+          "topic": "CSS Preprocessors + Sass Basics",
+          "combined_topics": ["Sass setup", "Variables", "Mixins", "Nesting"]
+        },
+        {
+          "day": 22,
+          "date": "2025-08-22", 
+          "topic": "Modern CSS + CSS-in-JS Concepts",
+          "combined_topics": ["Modern CSS features", "CSS-in-JS overview", "Styled components intro"]
+        },
+        {
+          "day": 23,
+          "date": "2025-08-23",
+          "topic": "PROJECT: CSS Art + Creative Coding",
+          "combined_topics": ["CSS creativity", "Animations", "Art projects"]
+        },
+        {
+          "day": 24,
+          "date": "2025-08-24",
+          "topic": "Cross-browser Compatibility + CSS Resets",
+          "combined_topics": ["Browser compatibility", "CSS resets", "Normalize.css"]
+        },
+        {
+          "day": 25,
+          "date": "2025-08-25",
+          "topic": "CSS Debugging + DevTools Mastery",
+          "combined_topics": ["DevTools", "CSS debugging", "Performance analysis"]
+        },
+        {
+          "day": 26,
+          "date": "2025-08-26",
+          "topic": "PROJECT: Responsive Dashboard Layout",
+          "combined_topics": ["Dashboard design", "Data visualization", "Responsive tables"]
+        },
+        {
+          "day": 27,
+          "date": "2025-08-27",
+          "topic": "CSS Best Practices + Code Review",
+          "combined_topics": ["Best practices", "Code organization", "Review process"]
+        },
+        {
+          "day": 28,
+          "date": "2025-08-28",
+          "topic": "Print Styles + Accessibility Deep Dive",
+          "combined_topics": ["Print CSS", "Accessibility", "Screen readers"]
+        },
+        {
+          "day": 29,
+          "date": "2025-08-29",
+          "topic": "PROJECT: Complete Portfolio Website",
+          "combined_topics": ["Portfolio design", "Personal branding", "Case studies"]
+        },
+        {
+          "day": 30,
+          "date": "2025-08-30",
+          "topic": "Month 1 Review + Portfolio Polish",
+          "combined_topics": ["Code review", "Portfolio improvements", "Next steps"]
+        },
+        {
+          "day": 31,
+          "date": "2025-08-31",
+          "topic": "HTML/CSS Mastery Assessment + Preparation for JavaScript",
+          "combined_topics": ["Skills assessment", "Knowledge gaps", "JavaScript preview"]
+        }
+      ]
+    },
+    "month_2": {
+      "title": "JavaScript Fundamentals + DOM + Git",
+      "calendar_month": "September 2025",
+      "days_range": "32-61",
+      "daily_topics": [
+        {
+          "day": 32,
+          "date": "2025-09-01",
+          "topic": "JavaScript Introduction + Setup + Variables + Data Types",
+          "combined_topics": ["JS overview", "Setup", "Variables", "Data types"]
+        },
+        {
+          "day": 33,
+          "date": "2025-09-02",
+          "topic": "Operators + Conditionals + Loops",
+          "combined_topics": ["All operators", "If/else", "For/while loops"]
+        },
+        {
+          "day": 34,
+          "date": "2025-09-03",
+          "topic": "Functions + Scope + Hoisting",
+          "combined_topics": ["Function types", "Scope concepts", "Hoisting behavior"]
+        },
+        {
+          "day": 35,
+          "date": "2025-09-04",
+          "topic": "Arrays + Objects + Methods",
+          "combined_topics": ["Array methods", "Object manipulation", "This keyword"]
+        },
+        {
+          "day": 36,
+          "date": "2025-09-05",
+          "topic": "ES6+ Features: Arrow Functions + Destructuring + Spread",
+          "combined_topics": ["Arrow functions", "Destructuring", "Spread/rest"]
+        },
+        {
+          "day": 37,
+          "date": "2025-09-06",
+          "topic": "PROJECT: JavaScript Calculator + Logic Games",
+          "combined_topics": ["Calculator app", "Rock paper scissors", "Logic implementation"]
+        },
+        {
+          "day": 38,
+          "date": "2025-09-07",
+          "topic": "DOM Manipulation + Event Handling",
+          "combined_topics": ["DOM selection", "Element manipulation", "Event listeners"]
+        },
+        {
+          "day": 39,
+          "date": "2025-09-08",
+          "topic": "Forms + Input Validation + Local Storage",
+          "combined_topics": ["Form handling", "Validation", "Storage APIs"]
+        },
+        {
+          "day": 40,
+          "date": "2025-09-09",
+          "topic": "PROJECT: Interactive To-Do List + Theme Switcher",
+          "combined_topics": ["Todo functionality", "Theme toggle", "Data persistence"]
+        },
+        {
+          "day": 41,
+          "date": "2025-09-10",
+          "topic": "Array Methods Deep Dive + Functional Programming",
+          "combined_topics": ["Map/filter/reduce", "Functional concepts", "Method chaining"]
+        },
+        {
+          "day": 42,
+          "date": "2025-09-11",
+          "topic": "Asynchronous JavaScript + Promises + Async/Await",
+          "combined_topics": ["Callbacks", "Promises", "Async/await", "Error handling"]
+        },
+        {
+          "day": 43,
+          "date": "2025-09-12",
+          "topic": "Fetch API + Working with JSON + APIs",
+          "combined_topics": ["Fetch basics", "JSON handling", "API integration"]
+        },
+        {
+          "day": 44,
+          "date": "2025-09-13",
+          "topic": "PROJECT: Weather App + API Integration",
+          "combined_topics": ["API consumption", "Dynamic UI", "Error handling"]
+        },
+        {
+          "day": 45,
+          "date": "2025-09-14",
+          "topic": "JavaScript Debugging + Error Handling + Testing Basics",
+          "combined_topics": ["DevTools debugging", "Error handling", "Basic testing"]
+        },
+        {
+          "day": 46,
+          "date": "2025-09-15",
+          "topic": "Git + GitHub Fundamentals",
+          "combined_topics": ["Git basics", "GitHub setup", "Version control workflow"]
+        },
+        {
+          "day": 47,
+          "date": "2025-09-16",
+          "topic": "Git Branching + Collaboration + GitHub Pages",
+          "combined_topics": ["Branching", "Merging", "GitHub Pages deployment"]
+        },
+        {
+          "day": 48,
+          "date": "2025-09-17",
+          "topic": "PROJECT: Multi-feature Web App",
+          "combined_topics": ["Complex app", "Multiple features", "Git workflow"]
+        },
+        {
+          "day": 49,
+          "date": "2025-09-18",
+          "topic": "JavaScript Modules + Import/Export + Bundling Concepts",
+          "combined_topics": ["ES6 modules", "Import/export", "Bundling overview"]
+        },
+        {
+          "day": 50,
+          "date": "2025-09-19",
+          "topic": "Object-Oriented Programming + Classes + Prototypes",
+          "combined_topics": ["OOP concepts", "Classes", "Prototype chain"]
+        },
+        {
+          "day": 51,
+          "date": "2025-09-20",
+          "topic": "Regular Expressions + String Manipulation",
+          "combined_topics": ["Regex basics", "String methods", "Pattern matching"]
+        },
+        {
+          "day": 52,
+          "date": "2025-09-21",
+          "topic": "PROJECT: Portfolio Website with JavaScript",
+          "combined_topics": ["Interactive portfolio", "Animations", "Dynamic content"]
+        },
+        {
+          "day": 53,
+          "date": "2025-09-22",
+          "topic": "Performance Optimization + Memory Management",
+          "combined_topics": ["Performance tips", "Memory leaks", "Optimization techniques"]
+        },
+        {
+          "day": 54,
+          "date": "2025-09-23",
+          "topic": "Browser APIs + Local Storage + Session Storage",
+          "combined_topics": ["Web APIs", "Storage options", "Browser features"]
+        },
+        {
+          "day": 55,
+          "date": "2025-09-24",
+          "topic": "JavaScript Design Patterns + Clean Code",
+          "combined_topics": ["Design patterns", "Clean code principles", "Best practices"]
+        },
+        {
+          "day": 56,
+          "date": "2025-09-25",
+          "topic": "PROJECT: Game Development with JavaScript",
+          "combined_topics": ["Game logic", "Canvas basics", "Animation"]
+        },
+        {
+          "day": 57,
+          "date": "2025-09-26",
+          "topic": "NPM + Package Management + Build Tools Intro",
+          "combined_topics": ["NPM basics", "Package.json", "Build tools overview"]
+        },
+        {
+          "day": 58,
+          "date": "2025-09-27",
+          "topic": "JavaScript Testing + Unit Tests + TDD Basics",
+          "combined_topics": ["Testing concepts", "Jest basics", "TDD approach"]
+        },
+        {
+          "day": 59,
+          "date": "2025-09-28",
+          "topic": "PROJECT: Full-Featured JavaScript Application",
+          "combined_topics": ["Complex application", "All JS concepts", "Production-ready code"]
+        },
+        {
+          "day": 60,
+          "date": "2025-09-29",
+          "topic": "JavaScript Best Practices + Code Review + Portfolio Update",
+          "combined_topics": ["Best practices", "Code review", "Portfolio enhancement"]
+        },
+        {
+          "day": 61,
+          "date": "2025-09-30",
+          "topic": "Month 2 Assessment + React Preparation",
+          "combined_topics": ["JavaScript mastery check", "React introduction", "Setup preparation"]
+        }
+      ]
+    },
+    "month_3": {
+      "title": "Advanced JavaScript + React Basics + State Management",
+      "calendar_month": "October 2025",
+      "days_range": "62-92",
+      "daily_topics": [
+        {
+          "day": 62,
+          "date": "2025-10-01",
+          "topic": "React Introduction + JSX + Components + Props",
+          "combined_topics": ["React overview", "JSX syntax", "Components", "Props"]
+        },
+        {
+          "day": 63,
+          "date": "2025-10-02", 
+          "topic": "React State + useState Hook + Event Handling",
+          "combined_topics": ["State concept", "useState hook", "Event handling in React"]
+        },
+        {
+          "day": 64,
+          "date": "2025-10-03",
+          "topic": "React Lists + Keys + Conditional Rendering",
+          "combined_topics": ["Rendering lists", "Key prop", "Conditional rendering"]
+        },
+        {
+          "day": 65,
+          "date": "2025-10-04",
+          "topic": "React Forms + Controlled Components + Input Handling",
+          "combined_topics": ["Form handling", "Controlled inputs", "Form validation"]
+        },
+        {
+          "day": 66,
+          "date": "2025-10-05",
+          "topic": "PROJECT: React Todo App + Local Storage",
+          "combined_topics": ["Todo functionality", "State management", "Persistence"]
+        },
+        {
+          "day": 67,
+          "date": "2025-10-06",
+          "topic": "useEffect Hook + Side Effects + Component Lifecycle",
+          "combined_topics": ["useEffect basics", "Side effects", "Cleanup functions"]
+        },
+        {
+          "day": 68,
+          "date": "2025-10-07",
+          "topic": "React Router + Navigation + Dynamic Routing",
+          "combined_topics": ["Router setup", "Navigation", "URL parameters"]
+        },
+        {
+          "day": 69,
+          "date": "2025-10-08",
+          "topic": "Custom Hooks + Hook Patterns + Reusable Logic", 
+          "combined_topics": ["Custom hooks", "Hook patterns", "Logic reuse"]
+        },
+        {
+          "day": 70,
+          "date": "2025-10-09",
+          "topic": "PROJECT: Multi-page React Application",
+          "combined_topics": ["Multi-page app", "Routing", "State sharing"]
+        },
+        {
+          "day": 71,
+          "date": "2025-10-10",
+          "topic": "Context API + Global State + Props Drilling Solution",
+          "combined_topics": ["Context API", "Global state", "Props drilling"]
+        },
+        {
+          "day": 72,
+          "date": "2025-10-11",
+          "topic": "useReducer Hook + Complex State Management",
+          "combined_topics": ["useReducer", "Complex state", "State patterns"]
+        },
+        {
+          "day": 73,
+          "date": "2025-10-12",
+          "topic": "React Performance + useMemo + useCallback + Optimization",
+          "combined_topics": ["Performance optimization", "Memoization", "Re-render prevention"]
+        },
+        {
+          "day": 74,
+          "date": "2025-10-13",
+          "topic": "PROJECT: React Dashboard with Context",
+          "combined_topics": ["Dashboard UI", "Context usage", "Performance optimization"]
+        },
+        {
+          "day": 75,
+          "date": "2025-10-14",
+          "topic": "React + APIs + Data Fetching + Loading States",
+          "combined_topics": ["API integration", "Data fetching", "Loading/error states"]
+        },
+        {
+          "day": 76,
+          "date": "2025-10-15",
+          "topic": "Error Boundaries + Error Handling + React DevTools",
+          "combined_topics": ["Error boundaries", "Error handling", "DevTools usage"]
+        },
+        {
+          "day": 77,
+          "date": "2025-10-16",
+          "topic": "React Testing + Jest + React Testing Library",
+          "combined_topics": ["Component testing", "Jest", "RTL basics"]
+        },
+        {
+          "day": 78,
+          "date": "2025-10-17",
+          "topic": "PROJECT: React E-commerce App (Part 1)",
+          "combined_topics": ["Product listing", "Shopping cart", "State management"]
+        },
+        {
+          "day": 79,
+          "date": "2025-10-18",
+          "topic": "PROJECT: React E-commerce App (Part 2)",
+          "combined_topics": ["Checkout process", "User authentication", "API integration"]
+        },
+        {
+          "day": 80,
+          "date": "2025-10-19",
+          "topic": "Styled Components + CSS-in-JS + Component Styling",
+          "combined_topics": ["Styled components", "CSS-in-JS", "Dynamic styling"]
+        },
+        {
+          "day": 81,
+          "date": "2025-10-20",
+          "topic": "React + TypeScript Basics + Type Safety",
+          "combined_topics": ["TypeScript intro", "React with TS", "Type definitions"]
+        },
+        {
+          "day": 82,
+          "date": "2025-10-21",
+          "topic": "Component Libraries + Material-UI + Ant Design",
+          "combined_topics": ["UI libraries", "Material-UI", "Component integration"]
+        },
+        {
+          "day": 83,
+          "date": "2025-10-22",
+          "topic": "React Patterns + Compound Components + Render Props",
+          "combined_topics": ["React patterns", "Advanced patterns", "Component composition"]
+        },
+        {
+          "day": 84,
+          "date": "2025-10-23",
+          "topic": "PROJECT: React Component Library",
+          "combined_topics": ["Reusable components", "Documentation", "Storybook intro"]
+        },
+        {
+          "day": 85,
+          "date": "2025-10-24",
+          "topic": "React + Forms + Formik + Yup Validation",
+          "combined_topics": ["Advanced forms", "Form libraries", "Validation schemas"]
+        },
+        {
+          "day": 86,
+          "date": "2025-10-25",
+          "topic": "React Animation + Framer Motion + Transitions",
+          "combined_topics": ["React animations", "Framer Motion", "Smooth transitions"]
+        },
+        {
+          "day": 87,
+          "date": "2025-10-26",
+          "topic": "React Best Practices + Code Organization + Architecture",
+          "combined_topics": ["Best practices", "Folder structure", "App architecture"]
+        },
+        {
+          "day": 88,
+          "date": "2025-10-27",
+          "topic": "PROJECT: Advanced React Application",
+          "combined_topics": ["Complex app", "All React concepts", "Professional structure"]
+        },
+        {
+          "day": 89,
+          "date": "2025-10-28",
+          "topic": "React Deployment + Build Optimization + Environment Variables",
+          "combined_topics": ["Production builds", "Optimization", "Environment config"]
+        },
+        {
+          "day": 90,
+          "date": "2025-10-29",
+          "topic": "React Ecosystem + Next.js Introduction + SSR Concepts",
+          "combined_topics": ["React ecosystem", "Next.js basics", "SSR/SSG concepts"]
+        },
+        {
+          "day": 91,
+          "date": "2025-10-30",
+          "topic": "Month 3 Portfolio Update + React Mastery Review",
+          "combined_topics": ["Portfolio enhancement", "React projects", "Skill assessment"]
+        },
+        {
+          "day": 92,
+          "date": "2025-10-31",
+          "topic": "Advanced React Assessment + State Management Preparation",
+          "combined_topics": ["React mastery check", "Redux introduction", "Advanced state prep"]
+        }
+      ]
+    },
+    "month_4": {
+      "title": "Advanced React + APIs + Testing + Deployment", 
+      "calendar_month": "November 2025",
+      "days_range": "93-122",
+      "daily_topics": [
+        {
+          "day": 93,
+          "date": "2025-11-01",
+          "topic": "Redux + Redux Toolkit + State Management Architecture",
+          "combined_topics": ["Redux concepts", "Redux Toolkit", "Store setup"]
+        },
+        {
+          "day": 94,
+          "date": "2025-11-02",
+          "topic": "Redux Actions + Reducers + Selectors + DevTools",
+          "combined_topics": ["Actions", "Reducers", "Selectors", "DevTools"]
+        },
+        {
+          "day": 95,
+          "date": "2025-11-03",
+          "topic": "Redux Thunk + Async Actions + API Integration",
+          "combined_topics": ["Async Redux", "Thunk middleware", "API calls"]
+        },
+        {
+          "day": 96,
+          "date": "2025-11-04",
+          "topic": "PROJECT: Redux Shopping Cart + E-commerce Features",
+          "combined_topics": ["Shopping cart", "Redux implementation", "Complex state"]
+        },
+        {
+          "day": 97,
+          "date": "2025-11-05",
+          "topic": "REST APIs + HTTP Methods + Authentication Basics",
+          "combined_topics": ["REST principles", "HTTP methods", "Auth basics"]
+        },
+        {
+          "day": 98,
+          "date": "2025-11-06",
+          "topic": "JWT Authentication + Protected Routes + Auth Context",
+          "combined_topics": ["JWT tokens", "Protected routes", "Auth implementation"]
+        },
+        {
+          "day": 99,
+          "date": "2025-11-07",
+          "topic": "Advanced API Patterns + Caching + Error Handling",
+          "combined_topics": ["API patterns", "Caching strategies", "Error handling"]
+        },
+        {
+          "day": 100,
+          "date": "2025-11-08",
+          "topic": "PROJECT: Full-Stack Frontend App with Authentication",
+          "combined_topics": ["Complete app", "Authentication flow", "API integration"]
+        },
+        {
+          "day": 101,
+          "date": "2025-11-09",
+          "topic": "React Testing Deep Dive + Integration Tests",
+          "combined_topics": ["Testing strategies", "Integration tests", "Test coverage"]
+        },
+        {
+          "day": 102,
+          "date": "2025-11-10",
+          "topic": "End-to-End Testing + Cypress + Test Automation",
+          "combined_topics": ["E2E testing", "Cypress setup", "Test automation"]
+        },
+        {
+          "day": 103,
+          "date": "2025-11-11",
+          "topic": "Performance Optimization + Bundle Analysis + Lazy Loading",
+          "combined_topics": ["Performance optimization", "Bundle analysis", "Code splitting"]
+        },
+        {
+          "day": 104,
+          "date": "2025-11-12",
+          "topic": "PWA Concepts + Service Workers + Offline Functionality",
+          "combined_topics": ["PWA basics", "Service workers", "Offline support"]
+        },
+        {
+          "day": 105,
+          "date": "2025-11-13",
+          "topic": "PROJECT: Progressive Web App Development",
+          "combined_topics": ["PWA implementation", "Offline features", "App-like experience"]
+        },
+        {
+          "day": 106,
+          "date": "2025-11-14",
+          "topic": "Deployment Strategies + Netlify + Vercel + CI/CD",
+          "combined_topics": ["Deployment options", "Netlify/Vercel", "CI/CD basics"]
+        },
+        {
+          "day": 107,
+          "date": "2025-11-15",
+          "topic": "Docker Basics + Containerization + Deployment",
+          "combined_topics": ["Docker intro", "Containerization", "Container deployment"]
+        },
+        {
+          "day": 108,
+          "date": "2025-11-16",
+          "topic": "Monitoring + Analytics + Error Tracking + Performance",
+          "combined_topics": ["App monitoring", "Analytics setup", "Error tracking"]
+        },
+        {
+          "day": 109,
+          "date": "2025-11-17",
+          "topic": "PROJECT: Production-Ready Application Deployment",
+          "combined_topics": ["Production deployment", "Monitoring setup", "Performance optimization"]
+        },
+        {
+          "day": 110,
+          "date": "2025-11-18",
+          "topic": "GraphQL Basics + Apollo Client + Modern API Consumption",
+          "combined_topics": ["GraphQL intro", "Apollo setup", "Modern APIs"]
+        },
+        {
+          "day": 111,
+          "date": "2025-11-19",
+          "topic": "Micro-frontends + Module Federation + Architecture",
+          "combined_topics": ["Micro-frontends", "Module federation", "Architecture patterns"]
+        },
+        {
+          "day": 112,
+          "date": "2025-11-20",
+          "topic": "Accessibility + WCAG + Screen Readers + Inclusive Design",
+          "combined_topics": ["Accessibility standards", "WCAG compliance", "Inclusive design"]
+        },
+        {
+          "day": 113,
+          "date": "2025-11-21",
+          "topic": "SEO for SPAs + Meta Tags + Social Sharing + Analytics",
+          "combined_topics": ["SPA SEO", "Meta tags", "Social sharing", "Analytics"]
+        },
+        {
+          "day": 114,
+          "date": "2025-11-22",
+          "topic": "PROJECT: SEO-Optimized React Application",
+          "combined_topics": ["SEO implementation", "Social sharing", "Analytics integration"]
+        },
+        {
+          "day": 115,
+          "date": "2025-11-23",
+          "topic": "Security Best Practices + XSS + CSRF + Content Security Policy",
+          "combined_topics": ["Web security", "XSS prevention", "CSRF protection", "CSP"]
+        },
+        {
+          "day": 116,
+          "date": "2025-11-24",
+          "topic": "Internationalization + i18n + Localization + Multi-language Apps",
+          "combined_topics": ["i18n setup", "Localization", "Multi-language support"]
+        },
+        {
+          "day": 117,
+          "date": "2025-11-25",
+          "topic": "Advanced React Patterns + Suspense + Concurrent Features",
+          "combined_topics": ["React 18 features", "Suspense", "Concurrent rendering"]
+        },
+        {
+          "day": 118,
+          "date": "2025-11-26",
+          "topic": "PROJECT: Enterprise-Level React Application",
+          "combined_topics": ["Enterprise patterns", "Scalable architecture", "Team workflows"]
+        },
+        {
+          "day": 119,
+          "date": "2025-11-27",
+          "topic": "Code Quality + ESLint + Prettier + Husky + Git Hooks",
+          "combined_topics": ["Code quality tools", "Linting", "Formatting", "Git hooks"]
+        },
+        {
+          "day": 120,
+          "date": "2025-11-28",
+          "topic": "Documentation + Storybook + API Documentation + Team Collaboration",
+          "combined_topics": ["Documentation practices", "Storybook", "Team collaboration"]
+        },
+        {
+          "day": 121,
+          "date": "2025-11-29",
+          "topic": "Month 4 Portfolio Enhancement + Professional Projects",
+          "combined_topics": ["Portfolio update", "Professional projects", "Case studies"]
+        },
+        {
+          "day": 122,
+          "date": "2025-11-30",
+          "topic": "Advanced Frontend Assessment + Capstone Preparation",
+          "combined_topics": ["Skills assessment", "Capstone planning", "Final project preparation"]
+        }
+      ]
+    },
+    "month_5": {
+      "title": "Capstone Projects + Job Preparation + Portfolio",
+      "calendar_month": "December 2025",
+      "days_range": "123-153",
+      "daily_topics": [
+        {
+          "day": 123,
+          "date": "2025-12-01",
+          "topic": "Capstone Project Planning + Architecture + Tech Stack Selection",
+          "combined_topics": ["Project planning", "Architecture design", "Tech stack selection"]
+        },
+        {
+          "day": 124,
+          "date": "2025-12-02",
+          "topic": "Capstone Development Day 1: Project Setup + Initial Implementation",
+          "combined_topics": ["Project setup", "Initial development", "Foundation building"]
+        },
+        {
+          "day": 125,
+          "date": "2025-12-03",
+          "topic": "Capstone Development Day 2: Core Features + State Management",
+          "combined_topics": ["Core functionality", "State management", "Feature development"]
+        },
+        {
+          "day": 126,
+          "date": "2025-12-04",
+          "topic": "Capstone Development Day 3: API Integration + Authentication",
+          "combined_topics": ["API integration", "Authentication flow", "Data management"]
+        },
+        {
+          "day": 127,
+          "date": "2025-12-05",
+          "topic": "Capstone Development Day 4: UI/UX Polish + Responsive Design",
+          "combined_topics": ["UI refinement", "UX improvements", "Responsive implementation"]
+        },
+        {
+          "day": 128,
+          "date": "2025-12-06",
+          "topic": "Capstone Development Day 5: Testing + Bug Fixes + Optimization",
+          "combined_topics": ["Testing implementation", "Bug fixes", "Performance optimization"]
+        },
+        {
+          "day": 129,
+          "date": "2025-12-07",
+          "topic": "Capstone Development Day 6: Deployment + CI/CD + Production Setup",
+          "combined_topics": ["Production deployment", "CI/CD setup", "Production optimization"]
+        },
+        {
+          "day": 130,
+          "date": "2025-12-08",
+          "topic": "Capstone Documentation + README + Case Study Writing",
+          "combined_topics": ["Project documentation", "README creation", "Case study writing"]
+        },
+        {
+          "day": 131,
+          "date": "2025-12-09",
+          "topic": "Second Project: Quick Build Challenge (24-hour project)",
+          "combined_topics": ["Rapid development", "Time management", "MVP creation"]
+        },
+        {
+          "day": 132,
+          "date": "2025-12-10",
+          "topic": "Portfolio Website Overhaul + Professional Presentation",
+          "combined_topics": ["Portfolio redesign", "Professional presentation", "Project showcase"]
+        },
+        {
+          "day": 133,
+          "date": "2025-12-11",
+          "topic": "Resume Writing + Cover Letters + Professional Branding",
+          "combined_topics": ["Resume optimization", "Cover letter writing", "Personal branding"]
+        },
+        {
+          "day": 134,
+          "date": "2025-12-12",
+          "topic": "LinkedIn Optimization + GitHub Profile + Developer Presence",
+          "combined_topics": ["LinkedIn setup", "GitHub optimization", "Online presence"]
+        },
+        {
+          "day": 135,
+          "date": "2025-12-13",
+          "topic": "Interview Preparation: Technical Questions + Coding Challenges",
+          "combined_topics": ["Technical interviews", "Coding challenges", "Problem solving"]
+        },
+        {
+          "day": 136,
+          "date": "2025-12-14",
+          "topic": "Interview Preparation: Behavioral Questions + Portfolio Presentation",
+          "combined_topics": ["Behavioral interviews", "Portfolio presentation", "Storytelling"]
+        },
+        {
+          "day": 137,
+          "date": "2025-12-15",
+          "topic": "Mock Interviews + Feedback + Interview Skills Practice",
+          "combined_topics": ["Mock interviews", "Feedback incorporation", "Interview practice"]
+        },
+        {
+          "day": 138,
+          "date": "2025-12-16",
+          "topic": "Job Search Strategy + Application Process + Networking",
+          "combined_topics": ["Job search tactics", "Application optimization", "Networking strategies"]
+        },
+        {
+          "day": 139,
+          "date": "2025-12-17",
+          "topic": "Freelancing Preparation + Client Acquisition + Pricing Strategies",
+          "combined_topics": ["Freelance setup", "Client acquisition", "Pricing models"]
+        },
+        {
+          "day": 140,
+          "date": "2025-12-18",
+          "topic": "Open Source Contributions + Community Involvement",
+          "combined_topics": ["Open source", "Community participation", "Contribution strategies"]
+        },
+        {
+          "day": 141,
+          "date": "2025-12-19",
+          "topic": "Third Project: Open Source Contribution Project",
+          "combined_topics": ["Open source project", "Community contribution", "Collaboration"]
+        },
+        {
+          "day": 142,
+          "date": "2025-12-20",
+          "topic": "Industry Trends + Future Learning Path + Continuous Development",
+          "combined_topics": ["Industry trends", "Future learning", "Continuous improvement"]
+        },
+        {
+          "day": 143,
+          "date": "2025-12-21",
+          "topic": "Algorithm Practice + Data Structures Review + Interview Prep",
+          "combined_topics": ["Algorithm practice", "DS review", "Technical interview prep"]
+        },
+        {
+          "day": 144,
+          "date": "2025-12-22",
+          "topic": "System Design Basics + Scalability + Architecture Patterns",
+          "combined_topics": ["System design", "Scalability concepts", "Architecture patterns"]
+        },
+        {
+          "day": 145,
+          "date": "2025-12-23",
+          "topic": "Final Portfolio Review + Project Polish + Professional Presentation",
+          "combined_topics": ["Portfolio finalization", "Project polish", "Presentation skills"]
+        },
+        {
+          "day": 146,
+          "date": "2025-12-24",
+          "topic": "Personal Branding + Content Creation + Developer Blog Setup",
+          "combined_topics": ["Personal branding", "Content creation", "Blog setup"]
+        },
+        {
+          "day": 147,
+          "date": "2025-12-25",
+          "topic": "Reflection Day + Learning Journey Documentation + Goal Setting",
+          "combined_topics": ["Journey reflection", "Documentation", "Future goals"]
+        },
+        {
+          "day": 148,
+          "date": "2025-12-26",
+          "topic": "Mentorship + Teaching + Knowledge Sharing",
+          "combined_topics": ["Mentorship skills", "Teaching others", "Knowledge sharing"]
+        },
+        {
+          "day": 149,
+          "date": "2025-12-27",
+          "topic": "Final Technical Assessment + Skills Validation",
+          "combined_topics": ["Technical assessment", "Skills validation", "Competency review"]
+        },
+        {
+          "day": 150,
+          "date": "2025-12-28",
+          "topic": "Career Launch Preparation + Action Plan + Next Steps",
+          "combined_topics": ["Career launch", "Action planning", "Next steps"]
+        },
+        {
+          "day": 151,
+          "date": "2025-12-29",
+          "topic": "Professional Network Building + Community Engagement",
+          "combined_topics": ["Network building", "Community engagement", "Professional relationships"]
+        },
+        {
+          "day": 152,
+          "date": "2025-12-30",
+          "topic": "Final Project Showcase + Portfolio Launch + Professional Debut",
+          "combined_topics": ["Project showcase", "Portfolio launch", "Professional debut"]
+        },
+        {
+          "day": 153,
+          "date": "2025-12-31",
+          "topic": "🎓 GRADUATION DAY - Frontend Developer Certification + Career Launch 🚀",
+          "combined_topics": ["Graduation celebration", "Certification", "Career launch", "New year planning"]
+        }
+      ]
+    }
+  },
+  "milestones": {
+    "month_1": "Master HTML/CSS and build responsive portfolio website",
+    "month_2": "JavaScript proficiency with interactive projects and Git workflow",
+    "month_3": "React mastery with state management and routing",
+    "month_4": "Production-ready applications with testing and deployment",
+    "month_5": "Job-ready developer with portfolio and interview skills"
+  },
+  "success_metrics": {
+    "technical_skills": [
+      "HTML5 & CSS3 mastery",
+      "JavaScript ES6+ proficiency", 
+      "React ecosystem expertise",
+      "State management (Context, Redux)",
+      "API integration & authentication",
+      "Testing & deployment",
+      "Git workflow & collaboration",
+      "Performance optimization",
+      "Responsive design",
+      "Modern development tools"
+    ],
+    "portfolio_projects": [
+      "Responsive portfolio website",
+      "Interactive JavaScript applications",
+      "React e-commerce platform",
+      "Full-stack frontend with authentication",
+      "Progressive Web Application",
+      "Open source contribution",
+      "Capstone project with full documentation"
+    ],
+    "career_readiness": [
+      "Professional GitHub profile",
+      "Optimized LinkedIn presence", 
+      "Technical interview skills",
+      "Behavioral interview preparation",
+      "Freelance-ready skill set",
+      "Industry network connections",
+      "Continuous learning mindset"
+    ]
+  },
+  "daily_commitment": {
+    "minimum_hours": 2,
+    "recommended_hours": 3,
+    "intensive_days": 4,
+    "practice_focus": "Building real projects while learning",
+    "review_schedule": "Weekly progress reviews and monthly assessments"
+  }
+}
